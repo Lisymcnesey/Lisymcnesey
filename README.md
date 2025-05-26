@@ -14,7 +14,7 @@ I'm a B.E. Computer Science and Engineering student specializing in Artificial I
 
 - **Languages:** Python, Java, C, C++  
 - **AI/ML Frameworks & Libraries:** TensorFlow, Keras, OpenCV, scikit-learn  
-- **Tools:** Jupyter Notebook, Python
+- **Tools:** Jupyter Notebook, Python,github
 
 ---
 
