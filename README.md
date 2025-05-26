@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Lisy! 👋
 
-<!--
-**Lisymcnesey/Lisymcnesey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a B.E. Computer Science and Engineering student specializing in Artificial Intelligence and Machine Learning.
 
-Here are some ideas to get you started:
+- 🔍 Exploring AI projects that create real-world impact  
+- 💻 Comfortable with Python, Java, C, and C++  
+- 🧠 Learning deep learning using TensorFlow and Keras  
+- ⚙️ Tools I work with: Jupyter Notebook, GitHub  
+- 🌱 Always curious and passionate about growing in the AI/ML field
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Skills & Tools
+
+- **Languages:** Python, Java, C, C++  
+- **AI/ML Frameworks & Libraries:** TensorFlow, Keras, OpenCV, scikit-learn  
+- **Tools:** Jupyter Notebook, Python
+
+---
+
+### 📫 Let's Connect
+
+- [LinkedIn](https://www.linkedin.com/in/lisy-mc-nesey-j0206)  
+- [Email](mcneseylisy@gmail.com)
